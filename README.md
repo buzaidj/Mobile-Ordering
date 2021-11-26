@@ -1,0 +1,2 @@
+# Mobile-Ordering
+ I designed, implemented, and improved upon a mobile ordering platform used for an entire year by my social living group due to in-person ordering being unsafe. I talked with our chef and used some of my restaurant experience to come up with a good solution. A member fills out a Google form, that is read by a Raspberry Pi and formatted and printed by a receipt printer. This project is all of the code on the Raspberry Pi.
