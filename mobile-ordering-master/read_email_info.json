@@ -1,0 +1,7 @@
+{
+  "imap host name": "imap.gmail.com",
+  "read emails from": "EMAIL@gmail.com",
+  "comment": "reading emails has not been configured",
+  "incoming username": "EMAIL@gmail.com",
+  "incoming password": "EMAIL_PASSWORD"
+}

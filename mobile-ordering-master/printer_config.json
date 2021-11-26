@@ -1,0 +1,6 @@
+{
+    "usb": {
+      "vendor_id" : "0x04b8",
+      "product_id" : "0x0e02"
+    }
+}

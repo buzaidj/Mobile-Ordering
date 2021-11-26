@@ -1,0 +1,10 @@
+{
+  "comment": "This program sends emails about errors to the developer and about successful/failed orders to the user. You can configure this here. Be sure to allow less seecure apps to access your account https://support.google.com/accounts/answer/6010255",
+  "smtp host name": "smtp.gmail.com",
+  "port number": "465",
+  "send status emails to": "DEV_EMAIL@cornell.edu",
+  "comment_1": "This email is used to send error emails to the dev. I recommend making this a secondary account, because when the system crashes a lot can be sent!",
+  "organization name": "ORG",
+  "outgoing username": "USERNAME@gmail.com",
+  "outgoing password": "PASSWORD"
+}

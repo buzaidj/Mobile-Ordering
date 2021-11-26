@@ -1,0 +1,3 @@
+TODO
+
+Make a video going thru the setup process, creating a Google Form linked to a spreadsheet, using Google Cloud Platform to create a service account and creating a key for it, then downloading the key. Then, I need to demonstrate linking the service account to te Google Sheet API, and adding the service account to the form spreadsheet, then editing the config files to be able to access that spreadsheet.

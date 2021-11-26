@@ -1,0 +1,58 @@
+{
+  "lunch":{
+    "spreadsheet_name": "Lunch (Responses)",
+    "format":{
+      "timestamp":"A",
+      "name": "B",
+      "number": "C",
+      "order": "D",
+      "notes": "E",
+      "pickup_time": "F",
+      "email":"G",
+      "index":"H",
+      "option": "I"
+    }
+  },
+  "brunch":{
+    "spreadsheet_name": "Brunch (Responses)",
+    "format":{
+      "timestamp":"A",
+      "name": "B",
+      "number": "C",
+      "order": "D",
+      "notes": "E",
+      "pickup_time": "F",
+      "email": "G",
+      "index":"H",
+      "option":"I"
+    }
+  },
+  "dinner":{
+    "spreadsheet_name": "Dinner (Responses)",
+    "format": {
+      "timestamp": "A",
+      "name": "B",
+      "number": "C",
+      "day": "D",
+      "monday_order": "E",
+      "monday_option": "F",
+      "monday_notes": "G",
+      "tuesday_order": "H",
+      "tuesday_option": "I",
+      "tuesday_notes": "J",
+      "wednesday_order": "K",
+      "wednesday_option": "L",
+      "wednesday_notes": "M",
+      "thursday_order" : "N",
+      "thursday_option": "O",
+      "thursday_notes": "P",
+      "sunday_order": "Q",
+      "sunday_option": "R",
+      "sunday_notes": "S",
+      "pickup_time": "T",
+      "email": "U",
+      "index": "V"
+    }
+  }
+
+}
